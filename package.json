@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "csv_to_json_documentdb",
+  "main": "practice.js",
+  "dependencies": {
+    "caught": "0.0.3",
+    "documentdb": "^1.10.1",
+    "documentdb-q-promises": "^1.6.0",
+    "json": "^9.0.4",
+    "mock-browser": "^0.92.12",
+    "node-dom": "^0.1.0",
+    "yargs": "^6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pralay",
+  "license": "ISC"
+}
